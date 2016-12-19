@@ -1,0 +1,8 @@
+/Users/amano/Projects/pika4/bin/Debug/netcoreapp1.0/pika4.deps.json
+/Users/amano/Projects/pika4/bin/Debug/netcoreapp1.0/pika4.runtimeconfig.json
+/Users/amano/Projects/pika4/bin/Debug/netcoreapp1.0/pika4.runtimeconfig.dev.json
+/Users/amano/Projects/pika4/bin/Debug/netcoreapp1.0/pika4.dll
+/Users/amano/Projects/pika4/bin/Debug/netcoreapp1.0/pika4.pdb
+/Users/amano/Projects/pika4/obj/Debug/netcoreapp1.0/pika4.AssemblyInfo.cs
+/Users/amano/Projects/pika4/obj/Debug/netcoreapp1.0/pika4.dll
+/Users/amano/Projects/pika4/obj/Debug/netcoreapp1.0/pika4.pdb
